@@ -1,0 +1,3 @@
+[submodule "redmine/plugins/redmine_omniauth_saml"]
+	path = redmine/plugins/redmine_omniauth_saml
+	url = https://github.com/chrodriguez/redmine_omniauth_saml.git
